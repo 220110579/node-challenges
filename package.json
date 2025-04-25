@@ -1,10 +1,8 @@
 {
-  "name": "my-awesome-project",
+  "name": "my-app",
   "version": "1.0.0",
-  "author": "Salem Alsayary",
+  "author": "Your Name",
   "description": "A project that does something awesome",
-  "main": "index.js",
-  "license": "MIT",
   "scripts": {
     "start": "node myApp.js"
   }
