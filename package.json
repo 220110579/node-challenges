@@ -1,9 +1,5 @@
 {
-  "name": "my-app",
+  "name": "fcc-learn-npm-package-json",
   "version": "1.0.0",
-  "author": "Your Name",
-  "description": "A project that does something awesome",
-  "scripts": {
-    "start": "node myApp.js"
-  }
+  "author": "Your Name"
 }
