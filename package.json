@@ -1,7 +1,7 @@
 {
   "name": "my-awesome-project",
   "version": "1.0.0",
-  "description": "A simple Node.js project",
+"description": "A project that does something awesome",
   "main": "index.js",
   "author": "Salem Alsayary",
   "license": "MIT"
