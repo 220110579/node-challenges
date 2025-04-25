@@ -1,22 +1,12 @@
 {
-  "name": "your-node-challenges",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  ...
-}
-"author": "Salem Alsayary",
-{
   "name": "my-awesome-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Node.js project",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Salem Alsayary",
-  "license": "ISC"
+  "author": "Your Name",
+  "license": "MIT"
 }
+
 
 
 
